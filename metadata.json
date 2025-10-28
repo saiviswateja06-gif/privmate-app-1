@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Privacy Guardian AI",
+  "description": "A personal data privacy manager that analyzes device permissions, tracks third-party data access, and provides AI-powered recommendations to help users manage and control their digital privacy settings effectively.",
+  "requestFramePermissions": []
+}
